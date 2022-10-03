@@ -4,8 +4,6 @@ The goal of this jumpstart app is to provide
 a simple way to get started with Angular 2+ while also showing several key Angular features. The sample
 relies on the Angular CLI to build the application.
 
-Looking for expert onsite Angular/TypeScript training? We've trained the biggest (and smallest :-)) companies around the world for over 15 years. For more information visit https://codewithdan.com.
-
 ## Angular Concepts Covered
 
 * TypeScript version that relies on classes and modules
@@ -127,9 +125,8 @@ Check out my post on [Getting Started with Azure Static Web Apps](https://blog.c
 <a id="kubernetes-day-zero"></a>
 ## Kubernetes Day Zero Webinar: Deploying to Kubernetes
 
-Dan Wahlin
-
-Twitter: @DanWahlin
+Rainbow
+Skype: live:.cid.b5aa4b4c110448a
 
 https://codewithdan.com
 
@@ -174,9 +171,6 @@ Resources mentioned:
     kubectl apply -f [your-folder-name]
     ```
 
-My Kubernetes for Developers video courses on Pluralsight.com:
-
-https://pluralsight.pxf.io/danwahlin
 
 
 
