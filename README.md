@@ -128,15 +128,6 @@ Check out my post on [Getting Started with Azure Static Web Apps](https://blog.c
 Rainbow
 Skype: live:.cid.b5aa4b4c110448a
 
-https://codewithdan.com
-
-Resources mentioned:
-
-* https://github.com/danwahlin/angular-jumpstart
-* https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands
-* https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.13/#-strong-api-overview-strong-
-* https://kubernetes.io/docs/reference/kubectl/cheatsheet/
-
 ## Agenda
 
 1. Container Orchestration Options (Docker Swarm, Kubernetes)
